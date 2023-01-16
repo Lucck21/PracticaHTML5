@@ -1,0 +1,31 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+}
+
+header{
+    height: 80px;
+    background-color: black;
+    
+}
+
+.logo{
+    float: left;
+}
+
+.logoNombre{
+    float: right;
+    color: aliceblue;
+}
+
+.logo img{
+    height: 50px;
+}
+
+.nav-link{
+    float: right;
+    width: 100px;
+    height: 100%;
+    align-items: center;
+    padding-top: 30px;
+}

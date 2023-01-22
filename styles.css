@@ -1,0 +1,108 @@
+body {
+  background-size: cover;
+  font-family: cursive;
+  background-color: #0730a0;
+}
+
+header {
+  background-color: #440bc9;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+#tabla{
+  border: black 1px solid;
+  margin-left: 150px;
+}
+
+section {
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-top: 20px;
+  border: #050101 solid 15px;
+}
+
+#juegos-recomendados{
+  width: 70%;
+  display: inline-block;
+}
+
+aside{
+  width: 25%;
+  float: right;
+}
+.imagen {
+  border: 2px solid #333333;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #050101;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 16px;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333333;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+  height: 250px;
+}
+
+#Contacto{
+  margin-left: 20%;
+  position: absolute;
+  width: 25%;
+}
+
+li a{
+  color: white;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: blue;
+}
+
+nav a:hover{
+  color: aliceblue;
+}
+
+#ayuda{
+  margin-left: 50%;
+  width: 25%;
+  float: left;
+}
+
+#sigueme{
+  position: absolute;
+}
+
+#tabla-juegos{
+  width: 100%;
+  text-align: center;
+}
+
+.rrr{
+  border-right: #fdfdfd solid 5px;
+}
+

@@ -166,3 +166,13 @@ nav a:hover{
   width: 40%;
   margin-left: 50px;
 }
+
+#NintendoS{
+  width: 45%;
+  display: inline-block;
+}
+
+#NintendoA{
+  width: 45%;
+  float: right;
+}

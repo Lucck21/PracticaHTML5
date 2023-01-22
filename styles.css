@@ -139,3 +139,30 @@ nav a:hover{
   width: 20px;
   height: 20px;
 }
+
+#juegosXbox, #consolasXbox{
+  width: 70%;
+  float: right;
+  margin-left: 15px;
+}
+
+#infoXbox{
+  display: inline-block;
+  margin-top: -350px;
+  width: 20%;
+  margin-right: 70px;
+}
+
+#footerXbox{
+  float: left;
+  width: 99%;
+}
+
+#tablaXbox tr th a:hover{
+  color: green;
+}
+
+#tablaXbox{
+  width: 40%;
+  margin-left: 50px;
+}
